@@ -20,15 +20,15 @@ Certifique-se de ter o **Node.js** instalado. Depois, execute:
 
 ```sh
 npm install
-# ou
+ ou
 yarn install
 ```
 
-## 2️⃣ Rodar o Servidor de Desenvolvimento
+### 2️⃣ Rodar o Servidor de Desenvolvimento
 
 ```
 npm run dev
-# ou
+ ou
 yarn dev
 ```
 O projeto estará disponível em http://localhost:3000.
